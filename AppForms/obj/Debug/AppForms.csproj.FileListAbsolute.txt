@@ -1,0 +1,12 @@
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\bin\Debug\AppForms.exe.config
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\bin\Debug\AppForms.exe
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\bin\Debug\AppForms.pdb
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.csprojAssemblyReference.cache
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.Principal.resources
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.Properties.Resources.resources
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.csproj.GenerateResource.cache
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.csproj.CoreCompileInputs.cache
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.exe
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.pdb
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.CadastroFuncionario.resources
+C:\Users\rolie\Documents\FPitágoras\Visual Studio\AppForms\AppForms\obj\Debug\AppForms.CadastroAgenda.resources
